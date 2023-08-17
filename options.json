@@ -10,19 +10,6 @@
     ]
   },
   {
-    "patchName": "Custom package name",
-    "options": [
-      {
-        "key": "YouTubePackageName",
-        "value": "MemeTube "
-      },
-      {
-        "key": "MusicPackageName",
-        "value": "MemeMusic"
-      }
-    ]
-  },
-  {
     "patchName": "Custom branding Music name",
     "options": [
       {
@@ -35,18 +22,5 @@
       }
     ]
   },
-  {
-    "patchName": "Custom package name",
-    "options": [
-      {
-        "key": "YouTubePackageName",
-        "value": "MemeTube "
-      },
-      {
-        "key": "MusicPackageName",
-        "value": "MemeMusic "
-      }
-    ]
-  }
 ]
         
