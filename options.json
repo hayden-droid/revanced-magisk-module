@@ -1,1 +1,52 @@
-[]
+        
+[
+  {
+    "patchName": "Custom branding YouTube name",
+    "options": [
+      {
+        "key": "YouTubeAppName",
+        "value": "MemeTube "
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "YouTubePackageName",
+        "value": "MemeTube "
+      },
+      {
+        "key": "MusicPackageName",
+        "value": "MemeMusic"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding Music name",
+    "options": [
+      {
+        "key": "MusicLongName",
+        "value": "Memeitizer Music"
+      },
+      {
+        "key": "MusicShortName",
+        "value": "MemeMusic "
+      }
+    ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "YouTubePackageName",
+        "value": "MemeTube "
+      },
+      {
+        "key": "MusicPackageName",
+        "value": "MemeMusic "
+      }
+    ]
+  }
+]
+        
