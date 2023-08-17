@@ -4,7 +4,7 @@ build-mindetach-module = true
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-[MemeTube ]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -17,7 +17,7 @@ excluded-patches = "disable-shorts-on-startup hide-account-menu hide-autoplay-bu
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
-[MemeMusic ]
+[Youtube Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -27,12 +27,12 @@ build-mode = "both"
 included-patches = "custom-branding-icon-mmt custom-branding-icon-revancify-red"
 excluded-patches = "hide-button-shelf hide-cast-button hide-category-bar hide-navigation-label hide-new-playlist-button hide-playlist-card"
 
-[MemeTok]
+[TikTok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 build-mode = "both"
 included-patches = "sim-spoof"
 
-[MemeForms]
+[Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -41,15 +41,15 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 excluded-patches = "hide-navigation-buttons hide-place-button"
 
-[MemeChat]
+[Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 build-mode = "both"
 
-[Meme-X]
+[Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 build-mode = "both"
 excluded-patches = "hide-recommended-users"
 
-[MemeGram]
+[Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 build-mode = "both"
